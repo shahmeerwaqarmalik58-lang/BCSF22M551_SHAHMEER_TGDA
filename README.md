@@ -31,7 +31,7 @@ the base and survive as many waves as possible.
 
 
 ## 5. Gameplay Recording
-[Watch Gameplay Video](YOUR_VIDEO_LINK)
+[Watch Gameplay Video](https://drive.google.com/file/d/1vWAuo_WkPKlvvU6y-us0f2EvH3AxJjSG/view?usp=sharing)
 
 ## 6. APK Download
 [Download Tower Defence Game APK](https://github.com/shahmeerwaqarmalik58-lang/BCSF22M551_SHAHMEER_TGDA/releases/download/v1.0/MyAPKGameFile.apk)
