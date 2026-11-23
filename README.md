@@ -43,6 +43,3 @@ the base and survive as many waves as possible.
 - Health system
 - Shooting system
 - Game over system
-
-## 8. Bonus Features
-Add any extra features implemented in your game.
