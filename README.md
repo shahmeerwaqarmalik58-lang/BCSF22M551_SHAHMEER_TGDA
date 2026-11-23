@@ -18,7 +18,17 @@ the base and survive as many waves as possible.
 - ESC: Pause the game.
 
 ## 4. Screenshots
-Add screenshots of important game screens here.
+
+![Screenshot A](Screenshots/A.png)
+
+![Screenshot B](Screenshots/B.png)
+
+![Screenshot C](Screenshots/C.png)
+
+![Screenshot D](Screenshots/D.png)
+
+![Screenshot E](Screenshots/E.png)
+
 
 ## 5. Gameplay Recording
 [Watch Gameplay Video](YOUR_VIDEO_LINK)
