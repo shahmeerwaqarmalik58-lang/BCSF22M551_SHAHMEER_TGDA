@@ -1,0 +1,25 @@
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity user-specific settings
+[Uu]serSettings/
+
+# IDE generated files
+.vs/
+*.csproj
+*.sln
+*.slnx
+
+# Version control
+.plastic/
+
+# OS generated files
+.DS_Store
+Thumbs.db
