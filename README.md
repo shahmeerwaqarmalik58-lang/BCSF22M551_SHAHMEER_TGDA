@@ -34,7 +34,7 @@ the base and survive as many waves as possible.
 [Watch Gameplay Video](YOUR_VIDEO_LINK)
 
 ## 6. APK Download
-[Download Android APK](YOUR_APK_LINK)
+[Download Tower Defence Game APK](https://github.com/shahmeerwaqarmalik58-lang/BCSF22M551_SHAHMEER_TGDA/releases/download/v1.0/MyAPKGameFile.apk)
 
 ## 7. Implemented Features
 - Tower placement
